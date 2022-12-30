@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Webgit/Webgit/obj
+/Webgit/Webgit/Pages
+
+/Webgit/.vs
